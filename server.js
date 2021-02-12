@@ -35,7 +35,7 @@ client.on("ready", async () => {
   ekle.push(client.user.id);
   isim.push(client.user.id);
   ytrole.push(client.user.id);
-  client.user.setPresence({ activity: { name: "well" }, status: "dnd" });
+  client.user.setPresence({ activity: { name: "Rivendell 🖤" }, status: "dnd" });
   console.log(client.user.tag + " olarak giriş yaptım.");
 });
 
