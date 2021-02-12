@@ -1,7 +1,7 @@
 const { Client } = require("discord.js");
 const client = new Client({ ignoreDirect: true, ignoreRoles: true, ignoreEveryone: true });
 
-client.token = "";
+client.token = "ODA5NDA0MjMwMjI5Mjk1MTU1.YCUmbg.jbOIJgsCP2UNcpjc9gY6Y7fRpSk";
 
 const nickchange = new Set();
 
