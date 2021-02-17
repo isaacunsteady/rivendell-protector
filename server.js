@@ -5,15 +5,15 @@ client.token = "ODA5NDA0MjMwMjI5Mjk1MTU1.YCUmbg.jbOIJgsCP2UNcpjc9gY6Y7fRpSk";
 
 const nickchange = new Set();
 
-let ban = [""];
-let kick = [""];
-let webhook = [""];
-let kanal = [""];
-let rol = [""];
-let ekle = [""];
-let isim = [""];
-let botroles = [""];
-let ytrole = [""];
+let ban = ["648665731755540480"];
+let kick = ["648665731755540480"];
+let webhook = ["648665731755540480"];
+let kanal = ["648665731755540480"];
+let rol = ["648665731755540480"];
+let ekle = ["648665731755540480"];
+let isim = ["648665731755540480"];
+let botroles = ["648665731755540480"];
+let ytrole = ["648665731755540480"];
 
 let arr = [
   "ADMINISTRATOR",
